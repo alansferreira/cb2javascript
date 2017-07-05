@@ -1,1 +1,1 @@
-# cb2javascript
+# cb2node
